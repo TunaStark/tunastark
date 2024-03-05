@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TunaStark/TunaStark/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TunaStark/TunaStark/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TunaStark/TunaStark/output/github-contribution-grid-snake.svg">
-</picture>
 
 <h1 align="center">Hi 👋, I'm Tuna</h1>
 <h3 align="center">A passionate software developer, AI enthusiast and human.</h3>
